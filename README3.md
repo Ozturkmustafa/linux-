@@ -12,6 +12,7 @@ At the end of the this hands-on training, students will be able to;
 
 ## Outline
 
+
 - Part 1 - Basic User Commands
 
 - Part 2 - User Management
