@@ -180,4 +180,3 @@ sudo gpasswd -d user7 aws    # delete a user to a group.
 cat /etc/group
 ```
 ---
-
